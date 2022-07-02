@@ -16,7 +16,7 @@
     bottom: 250px;
     left: 180px;
     width: 50px;
-    transition: transform 3s ease-in-out;
+    transition: transform 1s ease-in-out;
     transition-delay: 1s;
 }
 
@@ -33,7 +33,7 @@
 }
 
 .plane:nth-child(3) {
-    transition-delay: .4s;
+    transition-delay: .1s;
 }
 
 .content:hover .plane:nth-child(3) {
