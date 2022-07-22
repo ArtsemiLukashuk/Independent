@@ -6,7 +6,7 @@ body {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    min-height: 100%;
+    min-height: 50%;
     font-family: 'Open Sans0', sans-serif;
 }
 
@@ -18,7 +18,7 @@ fieldset {
     font-family: 'comic', sans-MS;
     letter-spacing: 4px;
     color: #1c75c9;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .img {
