@@ -6,7 +6,7 @@ body {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    min-height: 50%;
+    min-height: 70%;
     font-family: 'Open Sans0', sans-serif;
 }
 
@@ -18,12 +18,12 @@ fieldset {
     font-family: 'comic', sans-MS;
     letter-spacing: 4px;
     color: #1c75c9;
-    font-size: 30px;
+    font-size: 40px;
 }
 
 .img {
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
     position: absolute;
     left: 620px;
 }
@@ -41,7 +41,7 @@ fieldset div, input {
 .bordergreen {
     border-radius: 5px;
     width: initial;
-    padding: 3px;
+    padding: 5px;
     border: 2px solid rgb(203, 216, 241);
     transition: 0.6s;
     width: 50%;
