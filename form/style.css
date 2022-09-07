@@ -3,7 +3,7 @@
     height: 300px;
     border: solid 2px black;
     border-radius: 5px;
-    background-color: white;
+    background-color: rgb(242, 217, 217);
     padding: 2em;
 }
 
@@ -23,7 +23,7 @@ h1 {
     padding: 0.5em 3.5em 0.5em 0.5em;
     background-color: rgb(204, 243, 255);
     border-radius: 5px;
-    border: double .5em rgba(0, 102, 255, .1);
+    border: double .5em rgb(51, 110, 199);
     padding: 0.1em;
     background-clip: content-box;
 }
